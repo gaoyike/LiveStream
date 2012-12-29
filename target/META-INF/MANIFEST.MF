@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Readman
+Build-Jdk: 1.6.0_37
+Class-Path: xuggle-xuggler-5.2.jar slf4j-api-1.6.4.jar commons-cli-1.1
+ .jar logback-core-1.0.0.jar logback-classic-1.0.0.jar commons-lang-2.
+ 1.jar plexus-utils-1.1.jar
+Created-By: Apache Maven
+Main-Class: myMain
+Archiver-Version: Plexus Archiver
+
